@@ -101,7 +101,7 @@ La documentación se puede previsualizar localmente mediante:
 properdocs serve
 ```
 
-Y se accede desde el navegador mediante:
+Y se accede desde el navegador mediante:      
 
 ```text
 http://127.0.0.1:8000/
